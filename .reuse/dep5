@@ -12,9 +12,6 @@ Files: symbols/MCP3208T-CI_SL.kicad_sym footprints/MCP3208T_CI_SL.pretty/* footp
 Copyright: SnapMagic Search, Inc.
 License: LicenseRef-SnapMagic
 Comment: Third-party symbol, footprint and 3D model downloaded from SnapMagic Search (SnapEDA); the terms are in symbols/MCP3208T-CI_SL.License.txt.
-X-A3-Name: SnapMagic MCP3208
-X-A3-Version: 2025-11
-X-A3-Url: https://www.snapeda.com
 
 Files: archive/Cherry-MX-Breakout-Board-master/* archive/Cherry MX.pretty/*
 Copyright: 2020 Sebastian Szczepański
