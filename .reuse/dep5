@@ -17,5 +17,3 @@ Files: archive/Cherry-MX-Breakout-Board-master/* archive/Cherry MX.pretty/*
 Copyright: 2020 Sebastian Szczepański
 License: MIT
 Comment: Cherry MX breakout board by sszczep, MIT (archive/Cherry-MX-Breakout-Board-master/LICENSE). The datasheet PDFs inside belong to their manufacturers.
-X-A3-Name: Cherry MX Breakout Board
-X-A3-Url: https://github.com/sszczep/Cherry-MX-Breakout-Board
