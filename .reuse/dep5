@@ -1,0 +1,24 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: A3 Audio
+Upstream-Contact: A3 Audio <contact@a3-audio.com>
+Source: https://github.com/a3-audio/a3-kicad-lib
+Comment: https://a3-audio.com
+
+Files: *
+Copyright: 2026 Raphael Eismann and contributors
+License: CERN-OHL-S-2.0
+
+Files: symbols/MCP3208T-CI_SL.kicad_sym footprints/MCP3208T_CI_SL.pretty/* footprints/3dModel/MCP3208T-CI_SL.step symbols/MCP3208T-CI_SL.License.txt
+Copyright: SnapMagic Search, Inc.
+License: LicenseRef-SnapMagic
+Comment: Third-party symbol, footprint and 3D model downloaded from SnapMagic Search (SnapEDA); the terms are in symbols/MCP3208T-CI_SL.License.txt.
+X-A3-Name: SnapMagic MCP3208
+X-A3-Version: 2025-11
+X-A3-Url: https://www.snapeda.com
+
+Files: archive/Cherry-MX-Breakout-Board-master/* archive/Cherry MX.pretty/*
+Copyright: 2020 Sebastian Szczepański
+License: MIT
+Comment: Cherry MX breakout board by sszczep, MIT (archive/Cherry-MX-Breakout-Board-master/LICENSE). The datasheet PDFs inside belong to their manufacturers.
+X-A3-Name: Cherry MX Breakout Board
+X-A3-Url: https://github.com/sszczep/Cherry-MX-Breakout-Board
