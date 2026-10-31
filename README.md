@@ -1,5 +1,7 @@
 # a3-kicad-lib
 
+![The A³ setup: four StemDecks, the desk and A³ Motion](https://a3-audio.github.io/img/a3-setup.jpg)
+
 ## Allgemeine Infos für A3
 - SMD Bauteilgröße: 1206
 
